@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tugas pbo pr", "tugas pbo pr\tugas pbo pr.csproj", "{C64EF32C-36E9-4E85-8FCD-7C35EA803BB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C64EF32C-36E9-4E85-8FCD-7C35EA803BB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C64EF32C-36E9-4E85-8FCD-7C35EA803BB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C64EF32C-36E9-4E85-8FCD-7C35EA803BB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C64EF32C-36E9-4E85-8FCD-7C35EA803BB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C59EC957-9946-48FA-8125-3A6F6EA3064B}
+	EndGlobalSection
+EndGlobal
